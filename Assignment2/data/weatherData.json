@@ -1,0 +1,82 @@
+[
+    {
+      "city": "Delhi",
+      "temperature": 30,
+      "rain": true,
+      "humidity": 60,
+      "windSpeed": 12,
+      "description": "Partly cloudy with a chance of rain"
+    },
+    {
+      "city": "Mumbai",
+      "temperature": 28,
+      "rain": true,
+      "humidity": 75,
+      "windSpeed": 10,
+      "description": "Heavy rain expected"
+    },
+    {
+      "city": "Agra",
+      "temperature": 35,
+      "rain": false,
+      "humidity": 40,
+      "windSpeed": 8,
+      "description": "Clear sky"
+    },
+    {
+      "city": "Bangalore",
+      "temperature": 24,
+      "rain": false,
+      "humidity": 55,
+      "windSpeed": 15,
+      "description": "Sunny with a few clouds"
+    },
+    {
+      "city": "Kolkata",
+      "temperature": 30,
+      "rain": true,
+      "humidity": 80,
+      "windSpeed": 20,
+      "description": "Thunderstorms likely"
+    },
+    {
+      "city": "Chennai",
+      "temperature": 32,
+      "rain": false,
+      "humidity": 70,
+      "windSpeed": 5,
+      "description": "Hot and humid"
+    },
+    {
+      "city": "Hyderabad",
+      "temperature": 26,
+      "rain": true,
+      "humidity": 65,
+      "windSpeed": 14,
+      "description": "Overcast with scattered showers"
+    },
+    {
+      "city": "Ahmedabad",
+      "temperature": 36,
+      "rain": false,
+      "humidity": 30,
+      "windSpeed": 9,
+      "description": "Sunny and dry"
+    },
+    {
+      "city": "Pune",
+      "temperature": 27,
+      "rain": false,
+      "humidity": 50,
+      "windSpeed": 11,
+      "description": "Pleasant weather"
+    },
+    {
+      "city": "Jaipur",
+      "temperature": 34,
+      "rain": false,
+      "humidity": 35,
+      "windSpeed": 7,
+      "description": "Clear and sunny"
+    }
+  ]
